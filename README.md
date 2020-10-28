@@ -9,6 +9,8 @@ POST ADS: Simple and easy submission process.
 CHAT: Chat with the seller or a vendor right in the app.
 FILTER: View ads based on your location and budget
 
+Website  demo <a href="https://www.umojamarketplace.co.ke">Link </a>
+
 Play Store demo <a href="https://play.google.com/store/apps/details?id=com.bevics.umoja">Link </a>
 
 ![2](https://play-lh.googleusercontent.com/ThtK6Id3illOU93G2dScawCVxuDDXCKlrXtES0tlwPG1PnGSz1Z8G4XgnO62xX_bNeF1=w1366-h600-rw)
